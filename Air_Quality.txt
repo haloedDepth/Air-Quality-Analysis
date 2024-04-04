@@ -1,0 +1,17 @@
+Projects:
+
+OpenAQ Project:
+
+Set up an ETL pipeline for gathering data from OpenAQ API
+Performed EDA on the extracted data, investigating daily and seasonal trends
+Full documentation available on https://haloeddepth.github.io
+
+Put Software development just above collaborative tools
+
+WorkExperience/UMKI:
+change the 2nd bullet point into:
+Managed the project from conception to deployment, securing over 200,000 euros in NGO funding
+
+WorkExperience/Freelance:
+Add 3rd bullet point:
+Increased profitability on several trading bots by a margin of 2%
